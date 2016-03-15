@@ -1,0 +1,8 @@
+
+
+2 conditions to tie: (it is not a tie yet!)
+1) all the boxes are filled (true)
+
+2) there is no winner (true)
+
+false && true = false
